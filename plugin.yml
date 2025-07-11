@@ -1,0 +1,12 @@
+name: Bounty
+main: sm\bounty\Loader
+version: 0.0.1
+api: 5.0.0
+author: sm
+
+depend:
+  - HCF
+
+permissions:
+  bounty.command:
+    default: true

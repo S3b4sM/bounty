@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace frostcheat\bounty\bounty\command;
+namespace sm\bounty\bounty\command;
 
 use pocketmine\command\CommandSender;
 
